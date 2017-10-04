@@ -11,15 +11,15 @@ description: I am not weird (i hope..)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
 
-body {background-color: #4dffc3;}
 
-</body> 
+
+<body> 
 
 body {background-color: #4dffc3;}
 <h1>This is a Heading</h1>
 <p>I am William accually</p>
 
-<body>
+</body>
 #
 # Flags below are optional
 #
