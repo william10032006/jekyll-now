@@ -15,6 +15,7 @@ body {background-color: #4dffc3;}
 
 <body> 
 
+body {background-color: #4dffc3;}
 <h1>This is a Heading</h1>
 <p>I am William accually</p>
 
