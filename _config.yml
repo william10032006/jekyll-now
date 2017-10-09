@@ -13,10 +13,10 @@ avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
 
  <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+ <h1>This is a heading</h1>
+ <p>This is a paragraph.</p>
 
-</body>
+ </body>
 
 #
 # Flags below are optional
