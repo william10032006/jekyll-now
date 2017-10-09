@@ -12,7 +12,7 @@ description: I am not weird (i hope..)
 avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
 
  <body>
- body { background-color: #00ffcc; }
+ body {background-color: #00ffcc;}
  <h1>This is a heading</h1>
  <p>This is a paragraph.</p>
 
