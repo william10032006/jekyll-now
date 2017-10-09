@@ -13,6 +13,8 @@ avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
 
  <body>
  body {background-color: #00ffcc;} 
+ p {font-family: verdana;
+    font-size: 20px; }
  <h1>This is a heading</h1>
  <p>This is a paragraph.</p>
 
