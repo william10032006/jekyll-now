@@ -3,17 +3,19 @@
 #
 
 # Name of your site (displayed in the header)
-name: Will da humphrey
+name: Will is the best!
 
 # Short bio or description (displayed in the header) 
-description: I am not weird (i hope..)
+description: Hi there!
+This is an amazing site right!
+Look down to see my learning blogs!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
  
  <body>
- <h1>This is a heading</h1>
- <p>This is a paragraph.</p>
+ <h1>This is my github site...</h1>
+ <p>I go to Doctor Challoner's.</p>
  <h2> YEP </h2>
  
  </body>
