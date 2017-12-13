@@ -6,8 +6,7 @@
 name: Will is the best!
 
 # Short bio or description (displayed in the header) 
-description: Hi there! This is an amazing site right! <br>
-Look down to see my learning blogs!
+description: Hi there! This is an amazing site right! Look down to see my learning blogs!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
@@ -26,15 +25,15 @@ avatar: https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: william.perrin-cocon@challoners.org
+  facebook: guess!
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
